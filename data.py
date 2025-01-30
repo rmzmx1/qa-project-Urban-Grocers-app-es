@@ -13,6 +13,7 @@ kit_body = {
 }
 
 test_1_kit_name = "a"
+
 test_2_kit_name = "Abcdabcdabcdabcdabcdabcdabcdabcdabcd"\
     "abcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdab"\
     "cdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcd"\
@@ -24,7 +25,9 @@ test_2_kit_name = "Abcdabcdabcdabcdabcdabcdabcdabcdabcd"\
     "cdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcd"\
     "abcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdab"\
     "cdabcdabcdabcdabcdabcdabC"
+
 test_3_kit_name = ""
+
 test_4_kit_name = "Abcdabcdabcdabcdabcdabcdabcdabcdabc"\
     "dabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcd"\
     "abcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcda"\
@@ -36,3 +39,12 @@ test_4_kit_name = "Abcdabcdabcdabcdabcdabcdabcdabcdabc"\
     "cdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabc"\
     "dabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcd"\
     "abcdabcdabcdabcdabcdabcdabcdabcdabcD"
+
+test_5_kit_name = "!·$%&/()"
+
+test_6_kit_name = "A Aaa "
+
+test_7_kit_name = "123456789"
+
+test_9_kit_name = 123
+
